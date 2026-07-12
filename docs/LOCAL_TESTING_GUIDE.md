@@ -48,7 +48,7 @@ git --version
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/ssrikantasahoo/heart-disease-mlops-final.git
+git clone https://github.com/sagarr8130/heart-disease-mlops.git
 cd heart-disease-mlops-final
 ```
 
