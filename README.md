@@ -1,7 +1,7 @@
 # Heart Disease Prediction MLOps Pipeline
 
-[![CI Pipeline](https://github.com/ssrikantasahoo/heart-disease-mlops-final/actions/workflows/ci.yml/badge.svg)](https://github.com/ssrikantasahoo/heart-disease-mlops-final/actions)
-[![CD Pipeline](https://github.com/ssrikantasahoo/heart-disease-mlops-final/actions/workflows/cd.yml/badge.svg)](https://github.com/ssrikantasahoo/heart-disease-mlops-final/actions)
+[![CI Pipeline](https://github.com/sagarr8130/heart-disease-mlops/actions/workflows/ci.yml/badge.svg)](https://github.com/sagarr8130/heart-disease-mlops/actions)
+[![CD Pipeline](https://github.com/sagarr8130/heart-disease-mlops/actions/workflows/cd.yml/badge.svg)](https://github.com/sagarr8130/heart-disease-mlops/actions)
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![Docker](https://img.shields.io/badge/docker-available-blue.svg)](https://www.docker.com/)
 
@@ -58,7 +58,7 @@ The **Heart Disease MLOps Pipeline** is designed to streamline the lifecycle of 
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ssrikantasahoo/heart-disease-mlops-final.git
+git clone https://github.com/sagarr8130/heart-disease-mlops.git
 cd heart-disease-mlops-final
 
 # Create virtual environment (Optional)
